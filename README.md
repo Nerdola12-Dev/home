@@ -4,10 +4,10 @@
 
 person: Nerdola12(Dev WebSite)
 
-bug:
+### bug:
 
 Failed to download "Sexmod"
 
-Final status:
+### Final status:
 
 The download can be completed successfully.
