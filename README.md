@@ -15,3 +15,9 @@
 |The download can be completed successfully.
 
 # 1.2v
+
+## 09/07/25
+
+1. New background
+2. 15+ Sexmod versions
+3. All Sexmod devlogs
