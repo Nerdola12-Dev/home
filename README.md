@@ -1,6 +1,8 @@
-# changelog
+# Changelog
 
 ## 07/07/25
+
+## Bugs
 
 |person: Nerdola12(Dev WebSite)
 
@@ -11,3 +13,5 @@
 |Final status:
 
 |The download can be completed successfully.
+
+# 1.2v
