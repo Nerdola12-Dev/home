@@ -10,6 +10,7 @@ body {
     text-align: center;
     padding: 50px;
     min-height: 100vh; /* garante altura mínima igual à viewport */
+    background-attachment: fixed, fixed;
 }
 
 h1 {
@@ -46,6 +47,15 @@ h6 {
 }
 
 .jenny-download-box a {
+    color: whitesmoke;
+    text-shadow:
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
+}
+
+.fapcraft-download-box a {
     color: whitesmoke;
     text-shadow:
     -1px -1px 0 black,
