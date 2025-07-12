@@ -1,6 +1,6 @@
 # Link
 
-[https://nerdola12-dev.github.io/home/](https://nerdola12-dev.github.io)
+[https://nerdola12-dev.github.io](https://nerdola12-dev.github.io)
 
 # Changelog
 
